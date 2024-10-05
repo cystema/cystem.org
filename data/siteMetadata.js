@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Just Another Blog ',
   author: 'Shubham Mazumder',
   headerTitle: 'A Blog',
-  // description: 'Shubham\'s Blog',
+  description: 'Shubham\'s Blog',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://cystem.org',
